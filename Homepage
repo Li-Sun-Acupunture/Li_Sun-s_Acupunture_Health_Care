@@ -1,0 +1,185 @@
+<html>
+
+  <head>
+
+
+    <title>Acupuncture Health Care</title>
+
+    <body>
+
+      
+        
+
+       <img src="http://www.transsouth.com/wp-content/uploads/2015/12/TransSouth-Health-Care-Slider-Background-1.jpg?dc1884" alt="display this" height="100" width="1250" />
+      </body>
+      <hr>
+      <h1>
+      <!DOCTYPE html>
+<html>
+
+
+
+        <font color="#1F618D">
+          <font size="6">
+            <b><i><strong><head>
+    <style>
+      .dropbtn {
+        background-color: #85C1E9;
+        color: white;
+        padding: 32px;
+        font-size: 32px;
+        border: none;
+      }
+
+      .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #AED6F1;
+        min-width: 200px;
+        z-index: 1;
+      }
+
+      .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+      }
+
+      .dropdown-content a:hover {
+        background-color: white;
+      }
+
+      .dropdown:hover .dropdown-content {
+        display: block;
+      }
+
+      .dropdown:hover .dropbtn {
+        background-color: grey;
+      }
+
+    </style>
+  </head>
+
+  <div class="dropdown">
+    <button class="dropbtn">&#8801;</button>
+    <div class="dropdown-content">
+
+      <a href="https://www.google.com">Google</a>
+      <a href="https://www.facebook.com">Facebook</a>
+      <a href="https://www.youtube.com">YouTube</a>
+
+    </div>
+  </div>
+&nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;Welcome to Li Sun's</strong></i></b>
+              <div>
+
+                <center><b><i><strong>Acupuncture Healthcare Center</strong></i></b></div></center>
+            
+          </font>
+        </font>
+      </h1>
+   
+    <hr> 
+    <center>
+<style>
+body {
+            background-color: #D6EAF8;
+          }
+      #map {
+        height: 300px;
+        width: 70%;
+       }
+    </style>
+  <body>
+    <div id="map"></div>
+    <script>
+      function initMap() {
+        var uluru = {lat: 34.278229, lng: -118.710638};
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 15,
+          center: uluru
+        });
+        var marker = new google.maps.Marker({
+          position: uluru,
+          map: map
+        });
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjPrECUFfKwB4wtMQZ-3YYdtXhUJLmFMM&callback=initMap">
+    </script>
+    </body></center>
+  <h1>
+<font color="#21618C"><font size="5.2"><b><u>Location</u></b></font></font>
+</h1>
+<p>
+ <font color="#21618C"><font size="3.2">
+<b>2355 Tapo St 8<div>
+Simi Valley, CA 93063</b></div><img src="http://acupuncturehealthcarecenter.udinner.com/Pictures/FrontDoor2_Small.jpg" alt="display this" height="400" width="300" />
+</font></font></p>
+  <head>
+      <h1>
+      <font color="#21618C">
+        <font size="5.2">
+          <b><u>About Dr. Li</u></b>
+        </font>
+      </font>
+      </h1>
+      <center><img src="https://farm1.staticflickr.com/866/40326193495_d5001bca97_k.jpg" alt="display this" height="400" width="300" /></center>
+      <p><font color="#21618C">
+        <font size="3.2">
+          
+      
+         <b> Dr. Li Sun, Acupuncturist LAc Ph.D. has more than 30 years’ experience in Chinese medical acupuncture treatment. He graduated from China No.1 medical school Peking Medical University; then he worked there as professor. Dr. Sun got acupuncturist PhD degree from Dongguk University Los Angeles. He is a California licensed acupuncture doctor.
+
+Dr. Sun’s family dedicates themselves into Chinese acupuncture treatment for several generations and they accumulated years unique experience. Dr. Sun also gained those skills from his parent generations.  </b></font>
+      </font>
+      </p>
+      <center><img src="http://acupuncturehealthcarecenter.udinner.com/Pictures/LiSun_AcupunctureLicense.jpg" alt="display this" height="300" width="350" /><img src="http://acupuncturehealthcarecenter.udinner.com/Pictures/LiSun_AcupuncturePhD.jpg" alt="display this" height="300" width="350" /><img src="http://acupuncturehealthcarecenter.udinner.com/Pictures/SunLi_LeadershipAwards.jpg" alt="display this" height="300" width="250" /></center>
+      <body>
+      <h1>
+    <font color="#21618C">
+          <font size="5.2">
+            <font size="5.2"><b><u>Treatment:</u></b></font>
+          </font>
+          <p>
+            <font size="3.2">
+             <b> We are special treatment: neck pain , low back pain, Sciatica pain, all sorts jo .uk Mr pain and Facial Nerve paralysis, use oriental medicine to removed kidney, urinary,and gallbladder stone. We have electrical acupuncture, mosa, coupping, acupressure,
+              we accept most ppo insurance.
+            </b></font>
+          </p>
+          <h1>
+            <font color="#21618C">
+              <font size="5.2">
+                <font size="5.2"><b><u>Contact Information:</u></b></font>
+              </font>
+            </font>
+          </h1>
+
+          <font color="#21618C">
+            <font size="3">
+              <p>
+                <b>Phone Number: </b><a href="tel:18055205889">(805)520-5889</a>
+              </p>
+            </font>
+          </font>
+          <font color="#21618C">
+            <font size="3">
+              <p><b>Email:</b><a href="mailto:"></a></font>
+          </font>
+<hr>
+    <p><font color="#21618C">
+	<font size="2.2">
+ Website made by Li Sun's youngest daughter Michelle Sun.  
+	2018 Acupuncture Healthcare Center. All rights reserved.
+	</font>
+	</font></p>
+</body>
+  </head>
+  </html>
